@@ -2,7 +2,7 @@
 QQ三国手游开源服务端架构
 
 
-QQ三国手游源码发售
+https://sgonline.shop
 
 QQ三国手游Unity客户端工程+ C#服务端工程完整源码 【sgonline.shop】
 
